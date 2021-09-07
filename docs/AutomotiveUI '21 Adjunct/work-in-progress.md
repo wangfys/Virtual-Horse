@@ -1,4 +1,6 @@
-![AutomotiveUI'21 Logo](https://www.auto-ui.org/21/wp-content/themes/yootheme/cache/Signage2021-67934e83.png)
+<div algin="center">
+<img src="https://www.auto-ui.org/21/wp-content/themes/yootheme/cache/Signage2021-67934e83.png", height="50">
+</div>
 
 # Virtual Horse: an Anthropomorphic Notification Interface for Traffic Accident Reduction
 
