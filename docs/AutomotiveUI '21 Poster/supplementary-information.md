@@ -32,7 +32,7 @@ So we decide to use a horse's emotional behaviors as an interface.
 ## 2. How the interface actually looks like?
 
 The poster only shows static images so here is a GIF as an example!
-![Course1](Course1.gif)
+![Course1](../AutomotiveUI%20'21%20Adjunct/Course1.gif)
 
 1. The horse runs when the car is moving.
 1. The horse stands up on its rear feet when there is potential danger.

@@ -18,6 +18,10 @@ With the development of Vehicle-to-Infrastructure (V2I) and Vehicle-to-Everythin
 
 In this study, we propose Virtual Horse: an anthropomorphic notification interface using implicit information to implicate potential dangers to the driver. The virtual horse represents the car's behaviors and indicates potential dangers via body language like a real horse. We expect this anthropomorphic interface can reduce drivers’ reaction time for preventing dangers. We developed a prototype and ran a pilot study in a web-based driving simulation. The results showed potential benefits of using the proposed interface as well as showing useful insights for our future development of a user study.
 
+## Video
+
+![Course1](Course1.gif)
+
 ## Publication
 
 Fengyusheng Wang, Chia-Ming Chang, and Takeo Igarashi. 2021. Virtual Horse: an Anthropomorphic Notification Interface for Traffic Accident Reduction. In 13th International Conference on Automotive User Interfaces and Interactive Vehicular Applications (AutomotiveUI '21 Adjunct), September 9–14, 2021, Leeds, United Kingdom. ACM, New York, NY, USA 5 Pages. 
